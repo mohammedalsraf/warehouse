@@ -1,0 +1,16 @@
+#movetxt {
+    position: relative;
+    -webkit-animation: moving 10s infinite;
+    animation: moving 15s infinite;
+    margin-top: 10px;
+    color: #d0bb02;
+  }
+  
+  @keyframes moving {
+    0%, 100% {
+      transform: translateX(0px);
+    }
+    50% {
+      transform: translateX(-200px);
+    }
+  }

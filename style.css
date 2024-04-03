@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'Cairo';
+  src: url('fonts/Cairo-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Cairo-bold';
+  src: url('fonts/Cairo-Bold.ttf') format('truetype');
+}
+
+body {
+  font-size: 15px;
+  font-family: 'Cairo', sans-serif;
+}
+
+.menu {
+  font-size: 15px;
+
+  font-family: 'Cairo-bold', sans-serif;
+}
+
+
+
+
+.gradient-custom {
+  /* fallback for old browsers */
+  background: #6a11cb;
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+}
+
+.form-check-label {
+  margin-right: 10px;
+  /* Adjust the margin as needed */
+}
+
+.rmvbtn {
+  margin-top: 32px;
+}
+
+.insertbg {
+  background: #f9f4ff ;
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, rgb(239, 223, 255), rgb(113, 165, 255));
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, rgb(217, 185, 252), rgb(115, 166, 255))
+}
+.tablebg {
+  background: #e2e2e2 !important;
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  /* background: -webkit-linear-gradient(to right, rgb(239, 223, 255), rgb(113, 165, 255));
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  /* background: linear-gradient(to right, rgb(217, 185, 252), rgb(115, 166, 255)) */ 
+}
+
+.vendor {
+  margin-top: 400px;
+}
+
+.custum-btn {
+  font-size: 12px;
+  width: 30px;
+  /* Adjust the width and height to make the button circular */
+  height: 30px;
+  border: none;
+  border-radius: 50%;
+  /* This makes the button circular */
+  height: 100px;
+}
+
+.select2-container .select2-selection--single {
+
+  height: 38px;
+
+
+}
+.pagination-container {
+  height: 5px; 
+  /* Set the height as needed */
+  width: 300px;
+  overflow: auto;
+}
+
+.custom-error {
+  color: rgb(212, 0, 0); 
+  margin-top: 2px;/* Set the desired color for the error message */
+
+}
+
+
