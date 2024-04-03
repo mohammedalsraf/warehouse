@@ -19,4 +19,4 @@
 ![alt text](https://github.com/mohammedalsraf/warehouse/blob/main/pic/17.JPG)
 ![alt text](https://github.com/mohammedalsraf/warehouse/blob/main/pic/18.JPG)
 ![alt text](https://github.com/mohammedalsraf/warehouse/blob/main/pic/19.JPG)
-![alt text](https://github.com/mohammedalsraf/warehouse/blob/main/pic/20.JPG)
+
